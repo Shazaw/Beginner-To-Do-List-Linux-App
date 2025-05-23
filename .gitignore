@@ -1,0 +1,11 @@
+# Build artifacts in the root directory
+*.o
+Makefile*
+moc_*
+todo_gui
+*.pro.user # If .pro.user files appear in the root
+
+# Temporary files or logs
+tasks.txt # It's generally good practice to ignore generated data files.
+          # If you specifically want to commit an empty tasks.txt or a sample,
+          # remove this line, but typically you don't commit user data.
