@@ -1,0 +1,1 @@
+Hey everyone, this is just a really simple To-Do List linux application built with c++ and Qt, I did use AI to help me build the app. But I was thoroughly learning the process the whole way through. Hope to make more products soon!
